@@ -2,7 +2,7 @@
 Android端Markdown编辑器
 1. 基础需求
 	- [ ] markdown基本语法支持
-	- [ ] Github Favored Mardown语法支持
+	- [x] Github Favored Mardown语法支持
 	- [ ] 快捷输入栏&&预览功能
 	- [ ] 文档库支持
 	- [ ] 七牛云，阿里OSS，腾讯OSS等图床支持
